@@ -5,7 +5,7 @@ description: "分析保险行业资讯内容，提炼框架结构和写作风格
 metadata:
   input_types: ["pdf", "docx", "txt", "url", "微信公众号链接", "直接粘贴的文字"]
   output: "符合期刊风格的资讯内容 + 结构化分析报告"
-  sample_source: "10期《保险行业资讯Top10》（2025年8月-2026年5月）
+  sample_source: "10期《保险行业资讯Top10》（2025年8月-2026年5月）"
 ---
 
 # 内容分析器 (Content Analyzer)
